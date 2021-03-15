@@ -252,7 +252,7 @@ const mars250 = new Discord.Client();
 
 
 rs.login("");
-mars2.login("");
+mars2.login(""ODIxMTIzNDA0NDc1OTI0NTEy.YE_I5Q.QzH6g1QnHSz4uCqfh15s52zinSA"");
 mars3.login("");
 mars4.login("");
 mars5.login("");
